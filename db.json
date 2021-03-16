@@ -22,7 +22,7 @@
   "students": [
     { 
       "id": 1,
-      "name": "Ab Bc"
+      "name": "Ab Bc",
       "email": "a@mail.com", 
       "contact": "017123456789",
       "cgpa": "3.50",
@@ -30,7 +30,7 @@
     },
     { 
       "id": 2,
-      "name": "Bc Cd"
+      "name": "Bc Cd",
       "email": "a@mail.com", 
       "contact": "017123456789",
       "cgpa": "3.50",
@@ -38,7 +38,7 @@
     },
     { 
       "id": 3,
-      "name": "De ef"
+      "name": "De ef",
       "email": "a@mail.com", 
       "contact": "017123456789",
       "cgpa": "3.50",
