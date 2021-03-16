@@ -19,11 +19,30 @@
      "teacher": "Mr. Z"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "students": [
+    { 
+      "id": 1,
+      "name": "Ab Bc"
+      "email": "a@mail.com", 
+      "contact": "017123456789",
+      "cgpa": "3.50",
+      "courses": [1, 2]
+    },
+    { 
+      "id": 2,
+      "name": "Bc Cd"
+      "email": "a@mail.com", 
+      "contact": "017123456789",
+      "cgpa": "3.50",
+      "courses": [1, 3]
+    },
+    { 
+      "id": 3,
+      "name": "De ef"
+      "email": "a@mail.com", 
+      "contact": "017123456789",
+      "cgpa": "3.50",
+      "courses": [2, 3]
+    }
+  ]
 }
